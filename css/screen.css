@@ -30,6 +30,7 @@ input {
 label {
   text-align: center;
 }
+
 @media screen and (min-width: 992px) {
 	header {
 	  height: 80px;
@@ -53,3 +54,4 @@ label {
 	#wrap{
 	  padding: 0em 0em 0em 35em;
 	}
+}

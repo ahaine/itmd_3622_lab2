@@ -2,7 +2,7 @@
 html {
   line-height: 1.2em;
   font-family: arial;
-  font-size: 17px;
+  font-size: 16px;
 }
 header {
   background-color: teal;
@@ -21,3 +21,11 @@ footer {
 legend {
   text-align: center;
 }
+input {
+  height: 30px;
+  width: 100%
+}
+label {
+  text-align: center;
+}
+ 

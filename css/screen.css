@@ -2,6 +2,10 @@
 html {
   line-height: 1.2em;
   font-family: arial;
-  font-size: 15px;
+  font-size: 17px;
 }
-	
+header {
+  background-color: teal;
+  color: black;
+  text-align: center;
+}

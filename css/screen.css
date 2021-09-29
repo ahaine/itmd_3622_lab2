@@ -9,3 +9,15 @@ header {
   color: black;
   text-align: center;
 }
+body {
+  background-color: silver;
+  color: black;
+}
+footer {
+  background-color: teal;
+  color: black;
+  text-align: center;
+}
+legend {
+  text-align: center;
+}

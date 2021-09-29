@@ -30,5 +30,29 @@ input {
 label {
   text-align: center;
 }
-
- 
+@media screen and (min-width: 992px) {
+	header {
+	  height: 80px;
+	}
+	footer {
+	  height: 80px;
+	}
+	#submit {
+	  width: 20em;
+	  padding: 0em 0em 0em 35.8em;
+	}
+	#email {
+	  width: 30em;
+	}
+	#phone {
+	  width: 30em;
+	}
+	#birth {
+	  width: 30em;
+	}
+	#wrap{
+	  padding: 0em 0em 0em 35em;
+	}
+	p {
+	  padding: 0em 0em 0em 35.8em;
+	}
